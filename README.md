@@ -1,6 +1,6 @@
 # Velyaer
 
-Velyaer is a turn based strategy game written in TI-BASIC for the TI-84 calculator as a little side project during spare class time.
+Velyaer is a turn based strategy game written in TI-BASIC for the TI-84 calculator as a side project for fun.
 
 It features: 
 * Procedurally generated maps
