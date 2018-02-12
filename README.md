@@ -1,6 +1,6 @@
 # Velyaer
 
-Velyaer is a turn based strategy game written in TI-BASIC for the TI-84 calculator as a little side project during spare class time.
+Velyaer is a turn based strategy game written in TI-BASIC for the TI-84 calculator as a side project for fun.
 
 It features: 
 * Procedurally generated maps
@@ -21,9 +21,9 @@ The game is currently still under development, but is playable!
 ###### Installing from TI Connect CE
 
 1. Download and install [TI Connect CE](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw).
-2. Click on Calculator Explorer, [then the icon with an arrow coming out of a laptop in the top left](https://imgur.com/nJSw8tU).
+2. Click on Calculator Explorer, [then the icon with an arrow coming out of a laptop in the top left](https://i.imgur.com/nJSw8tU.png).
 3. Select all the files under the Game folder and send them to the calculator.
-4. On your calculator, press PRGM, then select VELYAER to run the game.
+4. On your calculator, press PRGM, then scroll to VELYAER and press enter twice to run the game.
 
 ## Playing the game
 
@@ -49,7 +49,6 @@ Once all enemies are dead, you should see the world map again to select the next
 * Good looking win/lose screens
 * Characters saying stuff at the start of combat that isn't "Text Sample"
 * Add pathfinding that will actually run in a reasonable amount of time
-
 * Clean up code
 
 
