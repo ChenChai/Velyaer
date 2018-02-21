@@ -28,6 +28,7 @@ The game is currently still under development, but is playable!
 ## Playing the game
 
 As of the moment, only a few features are available.
+At any point, **press the ON button to quit the game.**
 Press enter until you get to character selection, then choose a character.
 
 You should then see a world map, which will allow you to select which region you would like to travel to. Certain paths will close off others!
